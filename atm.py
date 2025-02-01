@@ -37,9 +37,7 @@ while True:
             print('Enter valid choice')
     elif ps == qui:
         break
-    elif ps == ValueError: 
-        print('Enter somethimg')
-            
+    
     else:
         print('')
         print(' Your password is incorrect')
